@@ -1,7 +1,9 @@
 Github Lab:
 
 1. What is the first command you awlays need to initialize a git repository?
-A:
+A: git init
 
 2. You see your friend pushed code to their repository with the following commit message "done!". Is this a good commit message? why or why not?
-A:
+A: No. The commit message needs to be specific to the actions/changes performed on the file.
+
+Fares Alkhayat
